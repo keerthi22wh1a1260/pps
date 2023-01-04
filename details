@@ -1,0 +1,15 @@
+#include<stdio.h>
+void main()
+{    printf("details of a person");
+     name;
+     father name;
+     occupation;
+     mother name;
+     occupation;
+     address;
+     confirm address;
+     city or area; 
+     add photo;
+     aadhar card;
+}
+
